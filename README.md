@@ -25,7 +25,7 @@ Smart ATS is an Application Tracking System designed to evaluate resumes against
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/smart-ats.git
+    git clone https://github.com/devnayyar/ATS_LLM.git
     cd smart-ats
     ```
 
